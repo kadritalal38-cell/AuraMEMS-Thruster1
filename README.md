@@ -26,3 +26,8 @@ The Kadri Bio-Electric Bridge Engine establishes a bi-directional, high-fidelity
 Any authorized use of this technology **MUST** credit: **"Mohamed Talal Kadri (Philosophical Researcher in Free Space)"**.
 
 For access, please initiate a formal validation inquiry.
+## Contact & Access Requests
+
+This is a private and restricted repository. If you wish to review the full research, request access, or discuss potential collaboration, please reach out via email:
+
+📩 kadritalal84@gmail.com 
